@@ -11,3 +11,19 @@ p {
 ul {
   font-size: 20px;
 }
+ol {
+  font-size: 20px;
+}
+marquee {
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+small {
+  color: red;
+  font-weight: bold;
+}
+sub {
+  color: red;
+  font-weight: bold;
+}
